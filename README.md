@@ -10,9 +10,9 @@ You can click the Preview link to take a look at your changes.
 --->
 ![](https://github-readme-stats.vercel.app/api?username=theworld365&count_private=true&show_icons=true&theme=github_dark)
 
-<!---
+
 ![theworld365](https://github-readme-stats.vercel.app/api/top-langs/?username=theworld365&theme=dark&layout=compact&card_width=445)
---->
+
 </div>
 
 ## Profile Metrics
