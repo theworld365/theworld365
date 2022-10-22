@@ -2,7 +2,7 @@
 <strong>Nuno Roberto /</strong> <a href="https://theworld365.github.io/">Homepage</a> / <a href="https://github.com/theworld365">Github</a> / <a href="https://gist.github.com/theworld365">Gist</a> / <a href="https://www.linkedin.com/in/nunoroberto/">Linkedin</a> / <a href="https://twitter.com/theworld365">Twitter</a> / <a href="https://www.facebook.com/ndphotography">Photography</a> / <a href="https://www.pinterest.ca/nrobertopin/">Pinterest</a> / <a href="https://www.flickr.com/photos/theworld365">Flickr</a> / <a href="https://www.tumblr.com/blog/theworld365">Tumblr</a> / <a href="https://stackoverflow.com/users/19769273/nunostack">Stack OverFlow</a> </pre></p>
 
 
-Hi, I’m @theworld365. Data Enthusiastic since 1990. Aspiring Data Scientist since 2015.
+Hi, I’m @theworld365. Data enthusiast since 1990. Aspiring Data Scientist since 2015.
 
 <!---
 theworld365/theworld365 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
