@@ -2,9 +2,7 @@
 <strong>Nuno Roberto /</strong> <a href="https://www.linkedin.com/in/nunoroberto/">Linkedin</a> / <a href="https://twitter.com/theworld365">Twitter</a> / <a href="https://www.facebook.com/ndphotography">Photography</a> / <a href="https://www.pinterest.ca/nrobertopin/">Pinterest</a> / <a href="https://www.flickr.com/photos/theworld365">Flickr</a> / <a href="https://www.tumblr.com/blog/theworld365">Tumblr</a> / <a href="https://stackoverflow.com/users/19769273/nunostack">Stack OverFlow</a> </pre></p>
 
 
-Hi, I’m @theworld365 <br>
-Data Enthusiastic since 1990.<br>
-Aspiring Data Scientist since 2015.<br>
+Hi, I’m @theworld365 <br> Data Enthusiastic since 1990.<br> Aspiring Data Scientist since 2015.<br>
 
 <!---
 theworld365/theworld365 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,8 +10,9 @@ You can click the Preview link to take a look at your changes.
 --->
 ![](https://github-readme-stats.vercel.app/api?username=theworld365&count_private=true&show_icons=true&theme=github_dark)
 
+<!---
 ![theworld365](https://github-readme-stats.vercel.app/api/top-langs/?username=theworld365&theme=dark&layout=compact&card_width=445)
-
+--->
 </div>
 
 ## Profile Metrics
